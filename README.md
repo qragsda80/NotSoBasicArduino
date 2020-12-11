@@ -13,7 +13,7 @@ I took two wires with male ends. I plugged one end of the first wire into the GN
 
 ### Image
 
-<img src="images/.jpg" alt="The Base" width="100">
+<img src="images/LEDBlinkRev.jpg" alt="The Base" width="100">
 
 ### Reflection
 
