@@ -33,7 +33,7 @@ I took two wires with male ends. I plugged one end of the first wire into the GN
 
 ### Image
 
-<img src="images/Finiteblink.jpg" alt="The Wiring" width="100">
+<img src="images/FiniteLED.jpg" alt="The Wiring" width="100">
 
 ### Reflection
 
