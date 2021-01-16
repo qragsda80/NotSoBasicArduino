@@ -13,7 +13,7 @@ I took two wires with male ends. I plugged one end of the first wire into the GN
 
 ### Image
 
-<img src="images/LEDBlinkRev.jpg" alt="The Base" width="100">
+<img src="images/LEDBlinkRev.jpg" alt="The Wiring" width="100">
 
 ### Reflection
 
@@ -33,10 +33,10 @@ I took two wires with male ends. I plugged one end of the first wire into the GN
 
 ### Image
 
-<img src="images/Finiteblink.jpg" alt="The Base" width="100">
+<img src="images/Finiteblink.jpg" alt="The Wiring" width="100">
 
 ### Reflection
 
-
+I'm trying to get these assignments done fast, so that I can get started on the partners ultrasonic senser project. I'm almost done with the next assignment right now, but I have to get them into Github. This is probably the longest part. I am having fun making these assignments, though. Seeing something that I made work makes learning so much more fun!
 
 ---
